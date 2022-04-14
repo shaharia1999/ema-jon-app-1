@@ -1,0 +1,31 @@
+.product{
+    width: 300px;
+    height: 520px;
+    border: 1px solid #95A0A7;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 8px;
+    position: relative;
+}
+.product img{
+    width:286px;
+    height: 286px;
+}
+/* .p-info{
+    margin-top: 40px;
+} */
+.card-footer{
+    width: 100%;
+    background: #FFE0B3;
+    border: 1px solid #95A0A7;
+    box-sizing: border-box;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 10px;
+}
+.card-footer:hover{
+    background-color: rgb(151, 151, 3);
+
+}
